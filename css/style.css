@@ -59,7 +59,7 @@ a{text-decoration: none;}
 #header:before{content:'';z-index:-1;width:100%;height:65%;background-color:#eff0ea;display:block;position:absolute;}
 #header:after{content:'';z-index:-1;width:100%;height:35.5%;background-color:#5ea281;display:block;position:absolute;bottom:0;}
 #header.travel .bg{z-index: -1;width:100%;height:65%; display:block;position:absolute;background-color:#fff;background-image: url(../images/travel/bg.png);background-repeat: repeat-x;background-position: 0px 280px;}
-#header.travel:after{background-color:#3faa96;}
+#header.travel:after{background-color:#74c2ce;}
 body.blog-sidebar #header{width:100%;height:490px;}
 body.blog-sidebar #header:before {height: 69%;}
 body.blog-sidebar  #header:after{height: 31%;}
