@@ -750,6 +750,14 @@ ul.number li,ul.arrow li,ul.star li,ul.heart li{font-size:14px;color:#8b8b8b;lin
 /**************************** /Footer **************************/
 
 /**************************** Color Scheme **************************/
+.fosdarkblue{background-color: #1f446c;}
+.fosblue{background-color: #476283;}
+.foslightblue{background-color: #a1c2e6;}
+.fosdarkred{background-color: #d1404a;}
+.foslightred{background-color: #ef9aa4;}
+.fosdarkyellow{background-color: #e1c721;}
+.foslightyellow{background-color: #eae4b7;}
+.fosdarkyellow{background-color: #;}
 .beige{background-color: #eff0ea;}
 .cadetblue{background-color: #2f9aac;}
 .seagreen{background-color: #53acbb !important;}
